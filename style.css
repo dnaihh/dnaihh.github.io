@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://images.hdqwalls.com/download/bunny-cute-1920x1080.jpg");
+    background-size: cover;
+    margin: 0;
+    display: block;
+    height: auto;
+  }
+  h1{
+      text-align: center;
+      font;
+  }
+  img{
+      display: block;
+     margin-left: auto;
+     margin-right: auto;
+  }
